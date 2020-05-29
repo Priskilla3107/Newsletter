@@ -1,14 +1,9 @@
-{ "mortgageNewsletter": 
- [
+
+{  "mortgageNewsletter":[
   {
-    "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good",
-    "subjectLine": "Do you know buying can be good?",
-    "id": "EID0001"
-  },
-  {
-    "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html",
-    "subjectLine": "Easier than you think",
-    "id": "EID0002"
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "May Weekly NewsLetter 1",
+	"templateID":"EID001"
   }
-]
-}
+  ]
+ } 
